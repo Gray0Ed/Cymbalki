@@ -1,0 +1,4 @@
+fullscreen 0
+width 800
+background 0
+soundNames 1
