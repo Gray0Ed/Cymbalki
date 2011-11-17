@@ -1,0 +1,13 @@
+W pliku conf.txt mo¿na ustawiæ rozdzielczoœæ (dok³adniej szerokoœæ okna wysokoœæ bêdzie dobrana automatycznie) i czy program ma dzia³aæ w trybie fullscreen (w trybie fullscreen aby wyjœæ nale¿y wcisn¹æ alt + f4).
+
+
+W folderze piosenki powinny siê znajdowaæ pliki z opisami melodii.
+Zrobi³em lekk¹ modyfikacjê formatu pliku - po nazwie ka¿dego zwierz¹tka s¹ wymienione cztery s³owa oddzielone bia³ym znakami, ka¿de s³owo to nazwa dŸwiêku które ma graæ ktoœ patrz¹cy na dane zwierz¹tko.
+
+
+Do dzia³ania programu jest potrzebna wirtualna maszyna javy. www.java.com/pl/
+
+Aby uruchomiæ program nale¿y klkn¹æ na plik cymbalki.bat na windowsie lub cymbalki.sh na linuksie.
+
+W przypadku b³êdów dzia³ania powinna siê pojawiæ jakaœ informacja na konsoli.
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="create_run_jar" name="Create Runnable Jar for Project Cymbalki">
+    <!--this file was created by Eclipse Runnable JAR Export Wizard-->
+    <!--ANT 1.7 is required                                        -->
+    <target name="create_run_jar">
+        <jar destfile="/home/students/jsim/j/jk306306/workspace/Cymbalki/cymbalki.jar" filesetmanifest="mergewithoutmain">
+            <manifest>
+                <attribute name="Main-Class" value="cymbalki.Cymbalki"/>
+                <attribute name="Class-Path" value="."/>
+            </manifest>
+            <fileset dir="/home/students/jsim/j/jk306306/workspace/Cymbalki/bin"/>
+            <zipfileset excludes="META-INF/*.SF" src="/home/students/jsim/j/jk306306/workspace/Cymbalki/lib/slick.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="/home/students/jsim/j/jk306306/workspace/Cymbalki/lib/lwjgl.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="/home/students/jsim/j/jk306306/workspace/Cymbalki/lib/jinput.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="/home/students/jsim/j/jk306306/workspace/Cymbalki/lib/jnlp.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="/home/students/jsim/j/jk306306/workspace/Cymbalki/lib/lwjgl_util.jar"/>
+        </jar>
+    </target>
+</project>

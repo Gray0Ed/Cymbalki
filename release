@@ -1,0 +1,7 @@
+#!/bin/bash
+rm -rf cymbalki
+rm -rf cymbalki.zip
+mkdir cymbalki
+cp -r conf.txt cymbalki.* informacje.txt readme native_libs cymbalki/
+zip -r cymbalki.zip cymbalki/
+rm -rf cymbalki/
