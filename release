@@ -2,6 +2,6 @@
 rm -rf cymbalki
 rm -rf cymbalki.zip
 mkdir cymbalki
-cp -r conf.txt cymbalki.* informacje.txt readme native_libs cymbalki/
+cp -r gfx piosenki conf.txt cymbalki.* informacje.txt README native_libs cymbalki/
 zip -r cymbalki.zip cymbalki/
 rm -rf cymbalki/

@@ -1,7 +1,8 @@
 =======================DOWNLOAD=========================
 To edit project you can download all files and import them as
-eclipse project.  If you need only release version download
+eclipse project.  If you need only release version, download
 cymbalki.zip.
+
 =======================ABOUT============================
 "Cymbalki" - Glockenspiel in english.  It is software made
 for educational purposes.
@@ -17,7 +18,6 @@ displays melodies by 2D animations.
 To start program run cymbalki.sh (linux) or cymbalki.bat (windows)
 
 =======================CONFIG FILE========================
-
 In conf.txt file you can set:
 
 fullscreen – 0 means program will run in window and 1 means
