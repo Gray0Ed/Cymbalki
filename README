@@ -1,13 +1,13 @@
 =======================DOWNLOAD=========================
-To edit project you can download all files and import them as
-eclipse project.  If you need only release version, download
+To edit the project you can download all the files and import them as
+an eclipse project.  If you only need a release version, download
 cymbalki.zip.
 
 =======================ABOUT============================
-"Cymbalki" - Glockenspiel in english.  It is software made
+"Cymbalki" - Glockenspiel in english.  It is a software made
 for educational purposes.
-How to use it?  In “piosenki” directory are files with
-encoded melodies.  In Cymbalki program you can select
+How to use it?  In the “piosenki” directory, there are files with
+encoded melodies.  In the Cymbalki program you can select
 one of these melodies and “play” it.  Playing means
 showing to each musician (up to 5 musicians can play
 simultaneously) when to play each note.
@@ -15,18 +15,16 @@ simultaneously) when to play each note.
 Cymbalki don’t measure musicians performance, it only
 displays melodies by 2D animations.
 
-To start program run cymbalki.sh (linux) or cymbalki.bat (windows)
+To start the program run cymbalki.sh (linux) or cymbalki.bat (windows).
 
 =======================CONFIG FILE========================
 In conf.txt file you can set:
 
-fullscreen – 0 means program will run in window and 1 means
-	application will run in fullscreen mode
+fullscreen – 0 means the program will run in a window and 1 means
+the application will run in a fullscreen mode
 
-width – resolution of program window is 3/4*width X width
+width – resolution of the program window is 3/4*height X width
 
-background – 0 means background image is not displayed 1 otherwise
+background – 0 means the background image is not displayed; 1 - it is
 
-soundNames – 0 means sound names are not displayed 1 otherwise
-
-
+soundNames – 0 means the sound names are not displayed; 1 - they are
